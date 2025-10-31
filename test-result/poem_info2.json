@@ -1,0 +1,172 @@
+[
+  {
+    "img_name": "shanshui_001.jpg",
+    "full_prompt": "A traditional Chinese landscape painting depicting a great mountain at dusk, with the setting sun resting on its waist.",
+    "element_prompt": "Lofty mountain, setting sun near the mountain's midsection, evening sky.",
+    "mood_prompt": "Majestic, tranquil, and evocative of the passage of time.",
+    "style_prompt": "Traditional Chinese landscape painting, muted earth tones, soft ink washes, balanced composition, classical brushwork.",
+    "annotations": [
+      {
+        "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+        "text": "白日依山尽",
+        "language": "Chinese",
+        "rec_score": 0.9998,
+        "valid": true
+      }
+    ],
+    "wm_score": 0.9998
+  },
+  {
+    "img_name": "shanshui_002.jpg",
+    "full_prompt": "A traditional Chinese landscape painting featuring towering green mountains, a long white waterfall cascading into a deep emerald pool, surrounded by gray-brown boulders and a thin veil of mist.",
+    "element_prompt": "Towering green mountains, vertical white waterfall, emerald pool, scattered boulders, drifting mist.",
+    "mood_prompt": "Dynamic yet serene, conveying the eternal flow and vitality of nature.",
+    "style_prompt": "Traditional Chinese landscape painting, rich green and gray ink tones, layered mountain forms, atmospheric perspective, delicate mist rendering.",
+    "annotations": [
+      {
+        "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+        "text": "川流不息",
+        "language": "Chinese",
+        "rec_score": 0.9998,
+        "valid": true
+      }
+    ],
+    "wm_score": 0.9998
+  },
+  {
+    "img_name": "shanshui_003.jpg",
+    "full_prompt": "A traditional Chinese landscape painting showing withered vines clinging to an old tree, with crows perched at dusk.",
+    "element_prompt": "Withered vines, gnarled old tree, dusk crows, sparse autumn branches.",
+    "mood_prompt": "Melancholic, desolate, and imbued with autumnal stillness.",
+    "style_prompt": "Traditional Chinese landscape painting, monochrome ink tones, expressive dry brushwork, minimalistic composition, poetic atmosphere.",
+    "annotations": [
+      {
+        "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+        "text": "枯藤老树昏鸦",
+        "language": "Chinese",
+        "rec_score": 0.9998,
+        "valid": true
+      }
+    ],
+    "wm_score": 0.9998
+  },
+  {
+    "img_name": "shanshui_004.jpg",
+    "full_prompt": "A traditional Chinese landscape painting of a lone fisherman in a straw raincoat rowing a small boat on a misty river, with distant peaks fading into fog.",
+    "element_prompt": "Lone fisherman, straw raincoat, small boat, misty river, distant hazy mountains.",
+    "mood_prompt": "Solitary, peaceful, and contemplative, evoking quiet harmony with nature.",
+    "style_prompt": "Traditional Chinese landscape painting, soft ink washes, misty ambiance, subtle tonal gradations, minimalist spatial depth.",
+    "annotations": [
+      {
+        "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+        "text": "孤舟蓑笠翁",
+        "language": "Chinese",
+        "rec_score": 0.9998,
+        "valid": true
+      }
+    ],
+    "wm_score": 0.9998
+  },
+  {
+    "img_name": "shanshui_005.jpg",
+    "full_prompt": "A traditional Chinese landscape painting of snow-covered silent mountains, tall pine trees capped with heavy snow, and a frozen stream winding through the valley.",
+    "element_prompt": "Snow-blanketed mountains, snow-laden pine trees, frozen stream, wintry stillness.",
+    "mood_prompt": "Utterly quiet, cold, and pristine, conveying profound solitude and purity.",
+    "style_prompt": "Traditional Chinese landscape painting, ink and light wash on paper, reserved use of white space to suggest snow, restrained palette of grays and whites.",
+    "annotations": [
+      {
+        "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+        "text": "千山鸟飞绝",
+        "language": "Chinese",
+        "rec_score": 0.9998,
+        "valid": true
+      }
+    ],
+    "wm_score": 0.9998
+  },
+  {
+    "img_name": "shanshui_006.jpg",
+    "full_prompt": "A traditional Chinese landscape painting of autumn maple trees blazing red along a winding river, a small wooden bridge crossing the water, and geese flying south in formation.",
+    "element_prompt": "Vibrant red maple trees, winding river, rustic wooden bridge, V-formation geese in sky.",
+    "mood_prompt": "Nostalgic, vibrant, and poetic, capturing the beauty of autumn transition.",
+    "style_prompt": "Traditional Chinese landscape painting, warm red and brown ink tones, rhythmic composition, delicate rendering of foliage and birds.",
+    "annotations": [
+      {
+        "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+        "text": "停车坐爱枫林晚",
+        "language": "Chinese",
+        "rec_score": 0.9998,
+        "valid": true
+      }
+    ],
+    "wm_score": 0.9998
+  },
+  {
+    "img_name": "shanshui_007.jpg",
+    "full_prompt": "A traditional Chinese landscape painting showing moonlight reflecting on a still lake, willow branches dipping into the water, and a quiet pavilion on the shore.",
+    "element_prompt": "Moonlit lake, drooping willow branches, waterside pavilion, calm night sky.",
+    "mood_prompt": "Tranquil, dreamy, and introspective, evoking quiet night serenity.",
+    "style_prompt": "Traditional Chinese landscape painting, soft ink washes, reflective water surface, elegant willow lines, subtle nocturnal atmosphere.",
+    "annotations": [
+      {
+        "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+        "text": "月落乌啼霜满天",
+        "language": "Chinese",
+        "rec_score": 0.9998,
+        "valid": true
+      }
+    ],
+    "wm_score": 0.9998
+  },
+  {
+    "img_name": "shanshui_008.jpg",
+    "full_prompt": "A traditional Chinese landscape painting of rolling clouds drifting over layered peaks, a winding path leading to a hidden temple, with incense smoke curling into the sky.",
+    "element_prompt": "Layered misty peaks, winding mountain path, secluded temple, rising incense smoke, drifting clouds.",
+    "mood_prompt": "Mysterious, secluded, and spiritually serene, suggesting a retreat from the mundane world.",
+    "style_prompt": "Traditional Chinese landscape painting, atmospheric ink washes, layered mountain composition, ethereal cloud rendering, classical temple architecture details.",
+    "annotations": [
+      {
+        "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+        "text": "云深不知处",
+        "language": "Chinese",
+        "rec_score": 0.9998,
+        "valid": true
+      }
+    ],
+    "wm_score": 0.9998
+  },
+  {
+    "img_name": "shanshui_009.jpg",
+    "full_prompt": "A traditional Chinese landscape painting of spring blossoms covering the hillsides, butterflies fluttering among blooming peach trees, and a gentle stream murmuring through the valley.",
+    "element_prompt": "Hillsides covered in blooming peach trees, fluttering butterflies, meandering clear stream, fresh spring foliage.",
+    "mood_prompt": "Joyful, vibrant, and serene, capturing the gentle beauty of early spring.",
+    "style_prompt": "Traditional Chinese landscape painting, soft pink and green ink washes, light and airy composition, delicate brushwork for blossoms and butterflies.",
+    "annotations": [
+      {
+        "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+        "text": "山桃红花满上头",
+        "language": "Chinese",
+        "rec_score": 0.9998,
+        "valid": true
+      }
+    ],
+    "wm_score": 0.9998
+  },
+  {
+    "img_name": "shanshui_010.jpg",
+    "full_prompt": "A traditional Chinese landscape painting of a vast desert meeting distant mountains under a setting sun, with a lone rider on horseback casting a long shadow across the dunes.",
+    "element_prompt": "Endless desert dunes, distant mountains, setting sun, solitary horseman, elongated shadow.",
+    "mood_prompt": "Vast, lonely, and heroic, evoking the grandeur and solitude of the frontier.",
+    "style_prompt": "Traditional Chinese landscape painting, warm ochre and brown tones, sweeping horizontal composition, minimal detail to emphasize scale and emptiness.",
+    "annotations": [
+      {
+        "polygon": [[30, 100], [90, 100], [90, 470], [30, 470]],
+        "text": "大漠孤烟直",
+        "language": "Chinese",
+        "rec_score": 0.9998,
+        "valid": true
+      }
+    ],
+    "wm_score": 0.9998
+  }
+]
